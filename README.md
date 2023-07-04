@@ -16,7 +16,7 @@ to install:
 6.) name the output file
 7.) and Done! Magic! a days work done in seconds!
 
-
+This code is under Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
                                                                                           
                                                                                           
                                                                                           
